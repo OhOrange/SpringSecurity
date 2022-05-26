@@ -5,6 +5,6 @@ spring:
   application:
     name: oauth2-server
   datasource:
-    url: jdbc:mysql://localhost:6657/oauth?useSSL=false
-    username: root
-    password: kIo9u7Oi0eg
+    url: jdbc:mysql://dev.ct7r3ulfla0v.ap-northeast-1.rds.amazonaws.com:3306/mask_dev?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
+    username: mask
+    password: n6vVsh0RlKJZTNV7C48agGno1
